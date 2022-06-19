@@ -1,5 +1,5 @@
 import React from 'react'
-const logo = 'https://raw.githubusercontent.com/adrianhajdin/project_web3.0/main/client/images/logo.png'
+// const logo = 'https://raw.githubusercontent.com/adrianhajdin/project_web3.0/main/client/images/logo.png'
 
 
 
@@ -49,4 +49,4 @@ const Footer = () => {
   )
 }
 
-export default Footer
+export default Footer;
