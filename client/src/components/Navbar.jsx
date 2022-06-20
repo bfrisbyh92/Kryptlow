@@ -20,11 +20,19 @@ const Navbar = () => {
     return (
         <nav className="w-full flex md:justify-center justify-between items-center p-4">
         <div className="md:flex-[0.5] flex-initial justify-center items-center">
-                    <img 
+                   
+            <img
+                src="https://i.ibb.co/3sJ25jd/Screen-Shot-2022-06-19-at-1-27-11-PM.png"
+                alt="Screen-Shot-2022-06-19-at-1-27-11-PM"  className="w-32"
+             >
+            </img>
+
+                    {/* <img 
                         src={require('/Users/friznation/Desktop/projects/completed/web3.0/client/src/images/logo-kryptlow.png')}
                         alt={""}
                         className="w-32"
-                    ></img>
+                    ></img> */}
+
                         </div>
         <ul className="text-white md:flex 
                     hidden list-none
