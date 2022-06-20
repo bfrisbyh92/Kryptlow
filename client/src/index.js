@@ -15,6 +15,6 @@ root.render(
 
     // ^^^ Wrapping the app with useContext/State from src/context/TransactionContext.jsx ^^^
 
-)
+);
 
 
